@@ -1,0 +1,9 @@
+Panel & Device Positioning
+
+DRAWING COMPLIANCE: Always verify the exact physical coordinate, height, and orientation of the panel, junction box, or device against the latest approved layout drawing before starting installation.
+
+SOLID & RIGID MOUNTING: Ensure the mounting location—whether on the concrete floor, a structural pillar, or a solid base frame—is completely rigid and capable of supporting the full weight. Never allow a panel or box to hang loosely or be poorly supported.
+
+DEVIATION REPORTING: If there is any discrepancy between the actual site layout and the drawing, or if the box does not fit properly, stop work immediately and inform your supervisor. Do not make unauthorized modifications.
+
+FINAL TIGHTNESS & POSITION LOCKING: Tighten all anchor fasteners or structural bolts firmly using the correct size tool. Confirm the device is rigidly fixed, and apply a permanent paint marker alignment line across all bolt heads and the mounting surface to visually lock and verify the correct installation position.

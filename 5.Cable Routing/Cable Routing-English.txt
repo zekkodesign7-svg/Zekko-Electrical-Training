@@ -1,0 +1,13 @@
+Cable Handling and Routing
+
+NO SHARP BENDS (MINIMUM BENDING RADIUS): Always maintain the specified minimum bending radius for all cables, especially thick power lines and sensitive communication wires. Never bend a cable sharply, as it destroys internal insulation and fractures copper strands.
+
+DRAG & DAMAGE PROTECTION: Never drag cables directly across sharp metal tray edges, concrete floors, or rough structural surfaces. Use cable rollers or guide trays to prevent slicing, scratching, or tearing the outer protective sheath.
+
+NEAT TRAY ROUTING & DRESSING: Route cables straight, parallel, and neatly dressed inside the cable trays. Avoid messy overlapping, twisting, or crisscross tangles. Ensure proper spacing to prevent heat buildup.
+
+SEGREGATION OF CABLES: Maintain strict physical separation between power cables and control/signal cables inside the routing pathways. Run them in separate trays or designated compartments to prevent electromagnetic interference (EMI) and signal noise.
+
+SECURE TYING & FIXING: Fix cables securely to the trays using appropriate cable ties or clamps at regular intervals. Do not overtighten the ties, as pinching can crush the inner cores. Ensure vertical cable runs are heavily supported.
+
+DAMAGE ESCALATION: If a cable gets severely kinked, twisted, crushed, or shows visible insulation damage during handling or routing, stop work immediately and inform your supervisor. Never cover up or tape over damaged cable sections.

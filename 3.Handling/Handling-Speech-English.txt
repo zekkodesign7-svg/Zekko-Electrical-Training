@@ -1,0 +1,11 @@
+Handling Costly and Sensitive Components.
+
+High-value automation devices and electrical panels require a high level of care during installation. Mishandling these components can cause immediate, hidden, or permanent device failure. To maintain equipment integrity and prevent physical damage, follow field procedures as instructed by supervisor.
+
+One. Heavy Structural Handling. When moving or positioning heavy power panels, main control enclosures, or terminal boxes, always use the proper designated lifting lugs, cranes, or pallet jacks. Never push, pull, or exert force directly on external components, door handles, or pre-mounted instruments, as this can damage hardware and warp fittings.
+
+Two. Gentle PLC and Inverter Handling. High-value automation controllers, PLC modules, and inverters must be handled with extreme care. Always grip these devices firmly and exclusively by their solid plastic outer chassis. Never pull on terminal blocks, communication ports, heat sinks, or integrated ribbon cables, as this can break internal connections.
+
+Three. Field Component Protection. Handle all field instruments—such as proximity sensors and safety light curtains—with absolute care during unpacking and installation. Avoid drops, physical shocks, or pressing down directly on the optical glass windows and sensing faces, which can easily break delicate internal parts or cause the device to fail completely. Keep these items fully protected from scratches and rough handling until they are securely mounted.
+
+By taking responsibility for how you handle these devices, we preserve system quality and ensure a flawless startup on every project.

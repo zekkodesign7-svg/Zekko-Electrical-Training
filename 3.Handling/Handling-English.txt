@@ -1,0 +1,12 @@
+Handling Costly & Sensitive Components
+1. Handling of Electrical Panels, Power Panels, and Enclosures
+
+HEAVY STRUCTURAL HANDLING: When moving or positioning heavy power panels, main control enclosures, or terminal boxes, always use proper lifting lugs, cranes, or pallet jacks. Never push or pull directly on external components, door handles, or mounted instruments.
+
+2. Handling of Sensitive Electrical Devices (PLC Modules & Inverters)
+
+GENTLE INSTALLATION: Handle high-value automation controllers, PLC I/O modules, and Inverters (VFDs) with extreme care. Grip them only by their solid plastic chassis; never pull on terminal blocks, heat sinks, or integrated ribbon cables.
+
+3. Handling of Field Components (Sensors & Light Curtains)
+
+PROTECT FROM DAMAGE: Handle all field instruments—like sensors and light curtains—with absolute care during unpacking and installation. Avoid drops, shocks, or pressing down on the glass windows and sensing faces, as this can easily break internal parts or cause the device to fail. Keep them completely protected from scratches and rough handling until they are fully mounted.

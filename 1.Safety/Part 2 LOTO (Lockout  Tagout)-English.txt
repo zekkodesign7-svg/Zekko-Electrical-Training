@@ -1,0 +1,24 @@
+Part 2: LOTO (Lockout / Tagout) & Panel Isolation
+Why to Use:
+It guarantees complete physical isolation from all live power sources, preventing accidental re-energization or electric shock while electrical termination work is being performed.
+
+Where to Use:
+This procedure must be applied at the main electrical isolation breaker or rotary switch of the industrial automation panel before opening the enclosure doors or handling any internal cabling.
+
+Screen Text Points:
+
+1. POWER OFF: Turn off the main power switch before you start working.
+
+2. PERSONAL LOCK: Put your personal lock on the switch so no one else can turn it on.
+
+3. LOTO TAG: Fix the standard LOTO tag directly onto your lock. Do not hang it loosely.
+
+4. TAG DETAILS: Write your Name and Mobile Number clearly on the tag.
+
+5. KEEP KEY: Keep the key in your pocket. Do not give it to anyone else.
+
+Point and Call (Yosh!) Protocols:
+
+6. APPLICATION CHECK: Point at the applied padlock and tag, verify alignment, and call out: "LOTO Applied, Switch Isolated, Safe to Work — Yosh!"
+
+7. REMOVAL & RE-ENERGIZATION CHECK: After work is complete and tools are cleared, remove your lock, close the panel, point to verify the area is clear of people, and call out: "All Locks Removed, Area Clear, Safe to Energize — Yosh!"

@@ -1,0 +1,22 @@
+Torque, Tightness & Paint Marking
+1. Equipment & Panel Structural Mounting
+
+PROPER TOOL SELECTION: Always select the correct, tools specified for structural fastening—whether executing floor grouting, structural pillar mounting, or fixing heavy equipment and panels. Hand-tightening by guessing is strictly prohibited.
+
+MANDATORY PAINT MARKING: Immediately after a mounting bolt or nut successfully achieves its specified torque value, apply a highly visible, continuous paint line across the fastener and the mating surface as per standard engineering requirements.
+
+COMPULSORY TRAINING: If you are not fully aware of the torque specifications or the correct paint-marking application method for panel structural mountings, you must proactively seek training from your supervisor before executing the task.
+
+2. Screw-Type Wire Terminations
+
+FULL DEPTH SCREW TIGHTNESS: For screw-type terminal blocks and component connections, use the correctly sized insulated screwdriver or torque screwdriver to ensure the screw is fully tightened to its engineered specification.
+
+SCREW CAP PAINT MARKING: Once fully tightened, apply a precise, standard paint marking directly onto the screw head or interface. If you require clarification on the correct marking protocol, stop and request on-the-job training from your supervisor.
+
+3. Push-In Type Wire Terminations
+
+MANDATORY PHYSICAL PULL-TEST: For toolless, push-in type wire terminations, smoothly and firmly insert the ferrule or wire into the terminal block jaw until it locks. Immediately perform a physical manual pull-test to ensure the internal spring clamp has gripped the wire perfectly.
+
+HORIZONTAL WIRE MARKING: Once the pull-test confirms a secure connection, apply a horizontal paint marking onto the wire after ferrule interface next to the terminal entry point. If you are unfamiliar with the horizontal wire-marking standard, consult your supervisor for immediate training.
+
+THE MANDATE OF THE MARK: A paint mark is the definitive field proof that a connection is completely secure. If a bolt, screw, or push-in wire lacks its designated marking, it will be treated as completely loose and non-compliant during quality audits.

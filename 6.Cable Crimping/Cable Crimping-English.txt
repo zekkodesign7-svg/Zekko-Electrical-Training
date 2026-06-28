@@ -1,0 +1,52 @@
+Cable Crimping and Labeling
+1. Drawing Reference & Wiring Preparation
+
+REFER TO THE DRAWING FIRST: Always refer strictly to the latest schematic and wiring layout drawing before starting. Check the exact wire gauge, destination terminal block, and corresponding identification codes to prepare your materials accurately.
+
+PRE-ROUTE AND MEASURE: Route the cable cleanly along the designated tray pathway right up to its final terminal destination before cutting. Always leave a comfortable, relaxed slack loop near the end so the wire is never under tension or pulled tightly once fixed.
+
+2. Strict 4S Cleanliness & Waste Control
+
+KEEP WASTE OUT: Keeping a clean work zone is non-negotiable. Throwing insulation strips, cut copper bits, or plastic cable tie clippings on the floor, inside the control panel, or inside any junction box is strictly prohibited and highly unprofessional.
+
+MANDATORY WASTE BOX: You must keep a designated waste collection box or pouch directly beside you at your workstation. Collect every single piece of scrap insulation and wire debris immediately to maintain a perfect 4S condition.
+
+3. Wire Stripping & Core Inspection
+
+PERFECT STRIPPING LENGTH: Use a calibrated wire stripper adjusted to the exact length of the lug barrel.
+
+ZERO DAMAGE TO COPPER: The insulation must be sliced cleanly. If you accidentally nick, shave, or cut even a single inner copper strand, cut the wire back completely and strip it again.
+
+NO SPLAYED STRANDS: Smoothly guide the copper core into the lug. There must be zero loose or splayed copper strands backing out or sticking out from the lug collar.
+
+4. Lug Selection & Tool Matching
+
+SELECT THE RIGHT LUG TYPE: Match your execution to the specific connection type specified in the engineering drawing:
+
+Pin Lugs / Ferrules: For push-in type terminal blocks and PLC I/O modules.
+
+Ring Lugs: For heavy-duty power terminals, stud connections, and earth busbars.
+
+Fork (Spade) Lugs: For standard screw-clamp barrier terminal strips.
+
+EXACT JAW DIE MATCHING: Always use the correct crimping tool and the precise jaw die size meant for that specific wire cross-section and lug barrel size. Never use an oversized tool or make a loose, uncalibrated crimp.
+
+5. Full-Cycle Crimping & Mechanical Test
+
+COMPLETE THE CRIMP CYCLE: Squeeze the ratchet or hydraulic crimping tool through its entire mechanical cycle until the jaws fully compress and automatically release.
+
+MANUAL PULL-TEST: Immediately perform a firm manual pull-test on the lug to physically confirm that the mechanical bond is 100% rock-solid before proceeding.
+
+6. Correct Labeling Direction & Visibility
+
+LABEL BEFORE TERMINATING: Slide the printed identification sleeve labels (ferrules or tags) onto the wire before inserting it into the terminal.
+
+READING DIRECTION MAPPING: Install the label so the printed text faces directly outward and reads cleanly from left-to-right or bottom-to-top. A worker must be able to read the terminal code effortlessly at a single glance without having to twist, pull, or strain the wire.
+
+7. Systematic Routing & Terminal Termination
+
+NEAT ROUTING AT THE TERMINAL: Do not cross wires haphazardly right at the terminal block. Form the dressed wire neatly into the terminal channel, align it squarely, and insert the lug cleanly into the terminal jaw. Tighten it firmly to ensure a reliable electrical connection while keeping the overall layout pristine.
+
+8. Error Escalation
+
+STOP AND REPORT: If a crimp feels loose, if a wire sleeve splits, if a label code is smudged and unreadable, or if the terminal block destination looks different from the drawing, stop work immediately and inform your supervisor. Never cover up a bad termination or guess a label code.

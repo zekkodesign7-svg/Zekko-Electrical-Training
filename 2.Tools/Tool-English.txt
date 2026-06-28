@@ -1,0 +1,40 @@
+Step 1: Content Structure (Before Power ON)
+Why to Use:
+Using the right tool for the right job prevents physical accidents, tool failure, and poor craftsmanship. Verifying every action ensures the quality, stability, and reliable execution of our mechanical and electrical installations.
+
+Where to Use:
+This policy applies to all installation tasks—including structural mounting, tray routing, wire crimping, and electrical termination—before any power is turned on.
+
+General Rules for Tools & Quality:
+
+RIGHT TOOL FOR THE JOB: Always choose the exact tool designed for your task (e.g., proper spanner sizes for sensors, correct screwdriver types for terminal blocks). Never use improvised tools.
+
+NO DAMAGED TOOLS: Inspect your tools before starting. Do not use cracked handles, worn-out screwdriver tips, or malfunctioning ratchet mechanisms.
+
+CONFIRM QUALITY: After completing any mounting, crimping, or termination activity, physically inspect and verify the quality of the job immediately.
+
+Activity-Specific Examples:
+
+1. Cable Tray & Panel Mounting (Mechanical Tasks)
+
+Action: Secure the cable trays and mount the panel securely. Use the proper hammer, spanners, and mounting hardware.
+
+Quality Check: Confirm the straight position of the device. Perform final tightness checks on all bolts, then apply a clear paint marker alignment line across the bolt head and surface to visually prove it is fully tightened.
+
+2. Wire Crimping (Control & Signal Cables)
+
+Action: Select the exact lug size and matching crimping tool die for your wire gauge. Complete a full crimping cycle.
+
+Quality Check: Perform a manual pull-test on the lug. Visually inspect the wire strands to ensure they are fully seated and that the crimp pattern has no cracks or loose strands.
+
+3. Control Cable Termination (Push-Type Terminal Blocks)
+
+Action: Insert the ferrule or wire into the push-type Terminal Block (TB) using the correct small terminal screwdriver.
+
+Quality Check: Confirm correct and complete insertion into the housing. Ensure the wire insulation is not caught inside the metal clamp, and mark a verification line over the wire sleeve or block to confirm final seating.
+
+4. Power Cable Lugging & Termination (Heavy Electrical Lines)
+
+Action: Apply heavy-duty power lugs using a hydraulic or heavy ratchet crimping tool. Fasten the lugs firmly onto the power distribution terminal busbars.
+
+Quality Check: Confirm the tightness of the terminal nut using a calibrated torque wrench. Immediately apply a permanent paint marker line across the nut and busbar interface to verify complete torque compliance.
