@@ -1,0 +1,221 @@
+{
+  "settings": {
+    "rotationDelay": 5,
+    "audioDelay": 0.5,
+    "autoAdvanceDelay": 3
+  },
+  "modules": [
+    {
+      "id": "mod_mqw0iiacp7g39",
+      "name": "1.Safety",
+      "parts": [
+        {
+          "id": "part_mqw0iltd778bn",
+          "label": "Safety Wears",
+          "en": {
+            "images": [
+              "1.Safety/Safety-English.png"
+            ],
+            "audio": "1.Safety/speech-safety-english.mp3",
+            "content": "Part 1: Daily Safety Gear Check (PPE) — Screen Text\r\n1. HELMET: Wear it straight. Tighten the chin strap. Check for cracks.\r\n\r\n2. SHOES: Thick insulating safety soles. Check for holes or damage.\r\n\r\n3. GLOVES & SLEEVES: Wear them properly. No tears, cuts, or small holes.\r\n\r\n4. GLASSES: Always wear clean safety glasses to protect your eyes.\r\n\r\n5. REFLECTOR JACKET: Wear it neat and zipped up. Keep it clean and visible."
+          },
+          "hi": {
+            "images": [
+              "1.Safety/Safety-Hindi.png"
+            ],
+            "audio": "1.Safety/speech-safety-Hindi.mp3",
+            "content": "भाग 1: दैनिक सुरक्षा गियर की जाँच (PPE) — स्क्रीन टेक्स्ट\r\n\r\n1. हेलमेट (HELMET):** इसे सीधा पहनें। चिन स्ट्रैप (ठोड़ी का पट्टा) को कसें। दरारों की जाँच करें।\r\n2. जूते (SHOES):** मोटे इंसुलेटिंग सुरक्षा सोल। छिद्रों या किसी नुकसान की जाँच करें।\r\n3. दस्ताने और स्लीव्स (GLOVES & SLEEVES):** इन्हें ठीक से पहनें। कोई फटा हुआ हिस्सा, कट या छोटे छेद नहीं होने चाहिए।\r\n4. चश्मा (GLASSES):** अपनी आँखों की सुरक्षा के लिए हमेशा साफ़ सुरक्षा चश्मा पहनें।\r\n5. रिफ्लेक्टर जैकेट (REFLECTOR JACKET):** इसे साफ़-सुथरा और पूरा ज़िप बंद करके पहनें। इसे साफ़ और दृश्यमान रखें।\r\n"
+          }
+        },
+        {
+          "id": "part_mqw0lx6xpdavk",
+          "label": "Loto",
+          "en": {
+            "images": [
+              "1.Safety/Safety-Loto-English.png"
+            ],
+            "audio": "1.Safety/speech-loto-english.mp3",
+            "content": "Part 2: LOTO (Lockout / Tagout) & Panel Isolation\r\nWhy to Use:\r\nIt guarantees complete physical isolation from all live power sources, preventing accidental re-energization or electric shock while electrical termination work is being performed.\r\n\r\nWhere to Use:\r\nThis procedure must be applied at the main electrical isolation breaker or rotary switch of the industrial automation panel before opening the enclosure doors or handling any internal cabling.\r\n\r\nScreen Text Points:\r\n\r\n1. POWER OFF: Turn off the main power switch before you start working.\r\n\r\n2. PERSONAL LOCK: Put your personal lock on the switch so no one else can turn it on.\r\n\r\n3. LOTO TAG: Fix the standard LOTO tag directly onto your lock. Do not hang it loosely.\r\n\r\n4. TAG DETAILS: Write your Name and Mobile Number clearly on the tag.\r\n\r\n5. KEEP KEY: Keep the key in your pocket. Do not give it to anyone else.\r\n\r\nPoint and Call (Yosh!) Protocols:\r\n\r\n6. APPLICATION CHECK: Point at the applied padlock and tag, verify alignment, and call out: \"LOTO Applied, Switch Isolated, Safe to Work — Yosh!\"\r\n\r\n7. REMOVAL & RE-ENERGIZATION CHECK: After work is complete and tools are cleared, remove your lock, close the panel, point to verify the area is clear of people, and call out: \"All Locks Removed, Area Clear, Safe to Energize — Yosh!\""
+          },
+          "hi": {
+            "images": [
+              "1.Safety/Safety-Loto-Hindi.png"
+            ],
+            "audio": "1.Safety/speech-loto-Hindi.mp3",
+            "content": "भाग 2: लोटो (लॉकआउट / टैगआउट) और पैनल आइसोलेशन\r\n\r\nउपयोग क्यों करें:\r\nयह सभी सक्रिय विद्युत स्रोतों से पूर्ण भौतिक अलगाव की गारंटी देता है, जिससे विद्युत टर्मिनेशन कार्य किए जाने के दौरान आकस्मिक पुनः-ऊर्जाकरण या बिजली के झटके को रोका जा सके।\r\n\r\nउपयोग कहाँ करें:\r\nयह प्रक्रिया औद्योगिक ऑटोमेशन पैनल के मुख्य विद्युत आइसोलेशन ब्रेकर या रोटरी स्विच पर लागू की जानी चाहिए, इससे पहले कि एनक्लोजर के दरवाजे खोले जाएँ या कोई आंतरिक केबलिंग को संभाला जाए।\r\n\r\nस्क्रीन टेक्स्ट पॉइंट्स:\r\n\r\n1. पावर ऑफ: काम शुरू करने से पहले मुख्य पावर स्विच को बंद करें।\r\n\r\n2. व्यक्तिगत लॉक: स्विच पर अपना व्यक्तिगत ताला लगाएँ ताकि कोई और उसे चालू न कर सके।\r\n\r\n3. लोटो टैग: मानक लोटो टैग को सीधे अपने ताले पर लगाएँ। इसे ढीला न लटकाएँ।\r\n\r\n4. टैग विवरण: टैग पर अपना नाम और मोबाइल नंबर स्पष्ट रूप से लिखें।\r\n\r\n5. चाबी रखें: चाबी अपनी जेब में रखें। इसे किसी और को न दें।\r\n\r\nपॉइंट एंड कॉल (योश!) प्रोटोकॉल:\r\n\r\n6. आवेदन जाँच: लगाए गए पैडलॉक और टैग की ओर इशारा करें, संरेखण सत्यापित करें, और पुकारें: \"लोटो लागू किया, स्विच आइसोलेट किया, कार्य सुरक्षित — योश!\"\r\n\r\n7. हटाने और पुनः-ऊर्जाकरण जाँच: कार्य पूरा होने और उपकरण साफ हो जाने के बाद, अपना ताला हटाएँ, पैनल बंद करें, क्षेत्र को लोगों से मुक्त सत्यापित करने के लिए इशारा करें, और पुकारें: \"सभी ताले हटाए गए, क्षेत्र साफ, ऊर्जाकरण सुरक्षित — योश!\""
+          }
+        }
+      ]
+    },
+    {
+      "id": "mod_mqw0r6t3na5nq",
+      "name": "2.Tools",
+      "parts": [
+        {
+          "id": "part_mqw0rcb3aryrj",
+          "label": "Tools",
+          "en": {
+            "images": [
+              "2.Tools/Tool-English.png"
+            ],
+            "audio": "2.Tools/Tool-English.mp3",
+            "content": "Step 1: Content Structure (Before Power ON)\r\nWhy to Use:\r\nUsing the right tool for the right job prevents physical accidents, tool failure, and poor craftsmanship. Verifying every action ensures the quality, stability, and reliable execution of our mechanical and electrical installations.\r\n\r\nWhere to Use:\r\nThis policy applies to all installation tasks—including structural mounting, tray routing, wire crimping, and electrical termination—before any power is turned on.\r\n\r\nGeneral Rules for Tools & Quality:\r\n\r\nRIGHT TOOL FOR THE JOB: Always choose the exact tool designed for your task (e.g., proper spanner sizes for sensors, correct screwdriver types for terminal blocks). Never use improvised tools.\r\n\r\nNO DAMAGED TOOLS: Inspect your tools before starting. Do not use cracked handles, worn-out screwdriver tips, or malfunctioning ratchet mechanisms.\r\n\r\nCONFIRM QUALITY: After completing any mounting, crimping, or termination activity, physically inspect and verify the quality of the job immediately.\r\n\r\nActivity-Specific Examples:\r\n\r\n1. Cable Tray & Panel Mounting (Mechanical Tasks)\r\n\r\nAction: Secure the cable trays and mount the panel securely. Use the proper hammer, spanners, and mounting hardware.\r\n\r\nQuality Check: Confirm the straight position of the device. Perform final tightness checks on all bolts, then apply a clear paint marker alignment line across the bolt head and surface to visually prove it is fully tightened.\r\n\r\n2. Wire Crimping (Control & Signal Cables)\r\n\r\nAction: Select the exact lug size and matching crimping tool die for your wire gauge. Complete a full crimping cycle.\r\n\r\nQuality Check: Perform a manual pull-test on the lug. Visually inspect the wire strands to ensure they are fully seated and that the crimp pattern has no cracks or loose strands.\r\n\r\n3. Control Cable Termination (Push-Type Terminal Blocks)\r\n\r\nAction: Insert the ferrule or wire into the push-type Terminal Block (TB) using the correct small terminal screwdriver.\r\n\r\nQuality Check: Confirm correct and complete insertion into the housing. Ensure the wire insulation is not caught inside the metal clamp, and mark a verification line over the wire sleeve or block to confirm final seating.\r\n\r\n4. Power Cable Lugging & Termination (Heavy Electrical Lines)\r\n\r\nAction: Apply heavy-duty power lugs using a hydraulic or heavy ratchet crimping tool. Fasten the lugs firmly onto the power distribution terminal busbars.\r\n\r\nQuality Check: Confirm the tightness of the terminal nut using a calibrated torque wrench. Immediately apply a permanent paint marker line across the nut and busbar interface to verify complete torque compliance."
+          },
+          "hi": {
+            "images": [
+              "2.Tools/Tool-Hindi.png"
+            ],
+            "audio": "2.Tools/Tool-Hindi.mp3",
+            "content": "चरण 1: सामग्री संरचना (पावर ऑन करने से पहले)\r\n\r\nउपयोग क्यों करें:\r\nसही काम के लिए सही उपकरण का उपयोग करने से शारीरिक दुर्घटनाएँ, उपकरण विफलता, और खराब कारीगरी रुकती है। प्रत्येक क्रिया की पुष्टि करना हमारी यांत्रिक और विद्युत स्थापनाओं की गुणवत्ता, स्थिरता और विश्वसनीय निष्पादन सुनिश्चित करता है।\r\n\r\nउपयोग कहाँ करें:\r\nयह नीति सभी स्थापना कार्यों पर लागू होती है—जिसमें संरचनात्मक माउंटिंग, ट्रे रूटिंग, वायर क्रिम्पिंग, और विद्युत टर्मिनेशन शामिल हैं—इससे पहले कि कोई पावर चालू किया जाए।\r\n\r\nउपकरणों और गुणवत्ता के लिए सामान्य नियम:\r\n\r\nसही काम के लिए सही उपकरण: हमेशा अपने कार्य के लिए डिज़ाइन किए गए सटीक उपकरण का चयन करें (जैसे, सेंसर के लिए उचित स्पैनर आकार, टर्मिनल ब्लॉक के लिए सही स्क्रूड्राइवर प्रकार)। कभी भी तात्कालिक उपकरणों का उपयोग न करें।\r\n\r\nकोई क्षतिग्रस्त उपकरण नहीं: शुरू करने से पहले अपने उपकरणों का निरीक्षण करें। टूटे हुए हैंडल, घिसे हुए स्क्रूड्राइवर टिप्स, या खराब शाफ़्ट तंत्र का उपयोग न करें।\r\n\r\nगुणवत्ता की पुष्टि करें: किसी भी माउंटिंग, क्रिम्पिंग, या टर्मिनेशन गतिविधि को पूरा करने के बाद, तुरंत कार्य की गुणवत्ता का भौतिक रूप से निरीक्षण और सत्यापन करें।\r\n\r\nगतिविधि-विशिष्ट उदाहरण:\r\n\r\n1. केबल ट्रे और पैनल माउंटिंग (यांत्रिक कार्य)\r\n\r\nक्रिया: केबल ट्रे को सुरक्षित करें और पैनल को मजबूती से माउंट करें। उचित हथौड़ा, स्पैनर और माउंटिंग हार्डवेयर का उपयोग करें।\r\n\r\nगुणवत्ता जाँच: उपकरण की सीधी स्थिति की पुष्टि करें। सभी बोल्टों पर अंतिम कसावट की जाँच करें, फिर बोल्ट हेड और सतह पर एक स्पष्ट पेंट मार्कर संरेखण रेखा लगाएँ ताकि यह दृश्य रूप से सिद्ध हो सके कि वह पूरी तरह से कसा हुआ है।\r\n\r\n2. वायर क्रिम्पिंग (नियंत्रण और सिग्नल केबल)\r\n\r\nक्रिया: अपने वायर गेज के लिए सटीक लग आकार और मिलान क्रिम्पिंग टूल डाई का चयन करें। पूर्ण क्रिम्प चक्र पूरा करें।\r\n\r\nगुणवत्ता जाँच: लग पर मैन्युअल पुल-टेस्ट करें। तार के स्ट्रैंड्स का दृश्य निरीक्षण करें ताकि सुनिश्चित हो सके कि वे पूरी तरह से बैठे हैं और क्रिम्प पैटर्न में कोई दरार या ढीले स्ट्रैंड नहीं हैं।\r\n\r\n3. नियंत्रण केबल टर्मिनेशन (पुश-प्रकार टर्मिनल ब्लॉक)\r\n\r\nक्रिया: सही छोटे टर्मिनल स्क्रूड्राइवर का उपयोग करके फेर्यूल या तार को पुश-प्रकार टर्मिनल ब्लॉक (टीबी) में डालें।\r\n\r\nगुणवत्ता जाँच: आवास में सही और पूर्ण प्रविष्टि की पुष्टि करें। सुनिश्चित करें कि तार का इन्सुलेशन धातु क्लैंप के अंदर नहीं फँसा है, और अंतिम बैठने की पुष्टि के लिए तार स्लीव या ब्लॉक पर एक सत्यापन रेखा अंकित करें।\r\n\r\n4. पावर केबल लगिंग और टर्मिनेशन (भारी विद्युत लाइनें)\r\n\r\nक्रिया: हाइड्रोलिक या भारी शाफ़्ट क्रिम्पिंग उपकरण का उपयोग करके भारी-शुल्क वाले पावर लग लगाएँ। लग को पावर वितरण टर्मिनल बसबारों पर मजबूती से बाँधें।\r\n\r\nगुणवत्ता जाँच: कैलिब्रेटेड टॉर्क रिंच का उपयोग करके टर्मिनल नट की कसावट की पुष्टि करें। पूर्ण टॉर्क अनुपालन सत्यापित करने के लिए तुरंत नट और बसबार इंटरफेस पर एक स्थायी पेंट मार्कर रेखा लगाएँ।"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mod_mqw2qqtz5vm3m",
+      "name": "3.Handling",
+      "parts": [
+        {
+          "id": "part_mqw2qwgo455xd",
+          "label": "Handling",
+          "en": {
+            "images": [
+              "3.Handling/Handling-English.png"
+            ],
+            "audio": "3.Handling/Handling-English.mp3",
+            "content": "Handling Costly & Sensitive Components\r\n1. Handling of Electrical Panels, Power Panels, and Enclosures\r\n\r\nHEAVY STRUCTURAL HANDLING: When moving or positioning heavy power panels, main control enclosures, or terminal boxes, always use proper lifting lugs, cranes, or pallet jacks. Never push or pull directly on external components, door handles, or mounted instruments.\r\n\r\n2. Handling of Sensitive Electrical Devices (PLC Modules & Inverters)\r\n\r\nGENTLE INSTALLATION: Handle high-value automation controllers, PLC I/O modules, and Inverters (VFDs) with extreme care. Grip them only by their solid plastic chassis; never pull on terminal blocks, heat sinks, or integrated ribbon cables.\r\n\r\n3. Handling of Field Components (Sensors & Light Curtains)\r\n\r\nPROTECT FROM DAMAGE: Handle all field instruments—like sensors and light curtains—with absolute care during unpacking and installation. Avoid drops, shocks, or pressing down on the glass windows and sensing faces, as this can easily break internal parts or cause the device to fail. Keep them completely protected from scratches and rough handling until they are fully mounted."
+          },
+          "hi": {
+            "images": [
+              "3.Handling/Handling-Hindi.png"
+            ],
+            "audio": "3.Handling/Handling-Hindi.mp3",
+            "content": "महंगे और संवेदनशील घटकों को संभालना\r\n\r\n1. इलेक्ट्रिकल पैनल, पावर पैनल और आवरण (एनक्लोजर) को संभालना\r\n\r\nभारी संरचनात्मक संभाल: भारी पावर पैनल, मुख्य नियंत्रण आवरण, या टर्मिनल बॉक्स को हिलाते या स्थापित करते समय, हमेशा उचित लिफ्टिंग लग्स, क्रेन, या पैलेट जैक का उपयोग करें। बाहरी घटकों, दरवाज़े के हैंडल, या लगे हुए उपकरणों पर सीधे धक्का या खिंचाव न करें।\r\n\r\n2. संवेदनशील विद्युत उपकरणों (पीएलसी मॉड्यूल और इनवर्टर) को संभालना\r\n\r\nसौम्य स्थापना: उच्च-मूल्य वाले ऑटोमेशन कंट्रोलर, पीएलसी आई/ओ मॉड्यूल, और इनवर्टर (वीएफडी) को अत्यंत सावधानी से संभालें। उन्हें केवल उनके ठोस प्लास्टिक चेसिस (ढाँचे) से पकड़ें; टर्मिनल ब्लॉक, हीट सिंक, या एकीकृत रिबन केबलों को कभी न खींचे।\r\n\r\n3. फील्ड घटकों (सेंसर और लाइट कर्टेन) को संभालना\r\n\r\nक्षति से सुरक्षा: अनपैकिंग और स्थापना के दौरान सभी फील्ड उपकरणों—जैसे सेंसर और लाइट कर्टेन—को पूरी सावधानी से संभालें। गिरने, झटके, या कांच की खिड़कियों और सेंसिंग फेस पर दबाव डालने से बचें, क्योंकि इससे आंतरिक भाग आसानी से टूट सकते हैं या उपकरण खराब हो सकता है। जब तक वे पूरी तरह से स्थापित न हो जाएं, तब तक उन्हें खरोंच और रफ हैंडलिंग से पूरी तरह सुरक्षित रखें।"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mod_mqw2st8ubg6sz",
+      "name": "4.Panel Position",
+      "parts": [
+        {
+          "id": "part_mqw2szn75bdsj",
+          "label": "Panel Position",
+          "en": {
+            "images": [
+              "4.Panel Position/Panel Pos-English.png"
+            ],
+            "audio": "4.Panel Position/Panel Pos-English.mp3",
+            "content": "Panel & Device Positioning\r\n\r\nDRAWING COMPLIANCE: Always verify the exact physical coordinate, height, and orientation of the panel, junction box, or device against the latest approved layout drawing before starting installation.\r\n\r\nSOLID & RIGID MOUNTING: Ensure the mounting location—whether on the concrete floor, a structural pillar, or a solid base frame—is completely rigid and capable of supporting the full weight. Never allow a panel or box to hang loosely or be poorly supported.\r\n\r\nDEVIATION REPORTING: If there is any discrepancy between the actual site layout and the drawing, or if the box does not fit properly, stop work immediately and inform your supervisor. Do not make unauthorized modifications.\r\n\r\nFINAL TIGHTNESS & POSITION LOCKING: Tighten all anchor fasteners or structural bolts firmly using the correct size tool. Confirm the device is rigidly fixed, and apply a permanent paint marker alignment line across all bolt heads and the mounting surface to visually lock and verify the correct installation position."
+          },
+          "hi": {
+            "images": [
+              "4.Panel Position/Panel Pos-Hindi.png"
+            ],
+            "audio": "4.Panel Position/Panel Pos-Hindi.mp3",
+            "content": "पैनल और उपकरण स्थिति निर्धारण\r\n\r\nड्राइंग अनुपालन: स्थापना शुरू करने से पहले, पैनल, जंक्शन बॉक्स, या उपकरण के सटीक भौतिक निर्देशांक, ऊंचाई, और अभिविन्यास (ओरिएंटेशन) की हमेशा नवीनतम स्वीकृत लेआउट ड्राइंग से तुलना करके पुष्टि करें।\r\n\r\nठोस और कठोर माउंटिंग: सुनिश्चित करें कि माउंटिंग स्थान—चाहे वह कंक्रीट का फर्श हो, संरचनात्मक स्तंभ हो, या ठोस बेस फ्रेम हो—पूरी तरह से कठोर (रिजिड) हो और पूरे वजन को सहन करने में सक्षम हो। कभी भी पैनल या बॉक्स को ढीला लटकने या खराब तरीके से सहारा देने की अनुमति न दें।\r\n\r\nविचलन रिपोर्टिंग: यदि वास्तविक साइट लेआउट और ड्राइंग के बीच कोई विसंगति है, या यदि बॉक्स ठीक से फिट नहीं होता है, तो तुरंत कार्य रोकें और अपने पर्यवेक्षक को सूचित करें। बिना अनुमति के कोई संशोधन न करें।\r\n\r\nअंतिम कसावट और स्थिति लॉकिंग: सही आकार के उपकरण का उपयोग करके सभी एंकर फास्टनरों या संरचनात्मक बोल्टों को मजबूती से कसें। पुष्टि करें कि उपकरण कठोरता से स्थिर है, और सभी बोल्ट हेड्स और माउंटिंग सतह पर एक स्थायी पेंट मार्कर संरेखण रेखा लगाएं ताकि सही स्थापना स्थिति को दृश्य रूप से लॉक और सत्यापित किया जा सके।"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mod_mqw2un1q84nbg",
+      "name": "5.Cable Routing",
+      "parts": [
+        {
+          "id": "part_mqw2uu0f7e32x",
+          "label": "Cable Routing",
+          "en": {
+            "images": [
+              "5.Cable Routing/Cable routing-English.png",
+              "5.Cable Routing/Cable routing-Common-1.png"
+            ],
+            "audio": "5.Cable Routing/Cable Routing-English.mp3",
+            "content": "Cable Handling and Routing\r\n\r\nNO SHARP BENDS (MINIMUM BENDING RADIUS): Always maintain the specified minimum bending radius for all cables, especially thick power lines and sensitive communication wires. Never bend a cable sharply, as it destroys internal insulation and fractures copper strands.\r\n\r\nDRAG & DAMAGE PROTECTION: Never drag cables directly across sharp metal tray edges, concrete floors, or rough structural surfaces. Use cable rollers or guide trays to prevent slicing, scratching, or tearing the outer protective sheath.\r\n\r\nNEAT TRAY ROUTING & DRESSING: Route cables straight, parallel, and neatly dressed inside the cable trays. Avoid messy overlapping, twisting, or crisscross tangles. Ensure proper spacing to prevent heat buildup.\r\n\r\nSEGREGATION OF CABLES: Maintain strict physical separation between power cables and control/signal cables inside the routing pathways. Run them in separate trays or designated compartments to prevent electromagnetic interference (EMI) and signal noise.\r\n\r\nSECURE TYING & FIXING: Fix cables securely to the trays using appropriate cable ties or clamps at regular intervals. Do not overtighten the ties, as pinching can crush the inner cores. Ensure vertical cable runs are heavily supported.\r\n\r\nDAMAGE ESCALATION: If a cable gets severely kinked, twisted, crushed, or shows visible insulation damage during handling or routing, stop work immediately and inform your supervisor. Never cover up or tape over damaged cable sections."
+          },
+          "hi": {
+            "images": [
+              "5.Cable Routing/Cable routing-Hindi.png",
+              "5.Cable Routing/Cable routing-Common-1.png"
+            ],
+            "audio": "5.Cable Routing/Cable Routing-Hindi.mp3",
+            "content": "केबल हैंडलिंग और रूटिंग\r\n\r\nतीव्र मोड़ नहीं (न्यूनतम बेंडिंग रेडियस): सभी केबलों, विशेष रूप से मोटी पावर लाइनों और संवेदनशील संचार तारों के लिए हमेशा निर्धारित न्यूनतम बेंडिंग रेडियस बनाए रखें। किसी केबल को कभी भी तीव्रता से न मोड़ें, क्योंकि इससे आंतरिक इन्सुलेशन नष्ट हो जाता है और तांबे के स्ट्रैंड टूट जाते हैं।\r\n\r\nखिंचाव और क्षति से सुरक्षा: केबलों को कभी भी सीधे धातु ट्रे के तेज किनारों, कंक्रीट के फर्श, या खुरदरी संरचनात्मक सतहों पर न खींचें। बाहरी सुरक्षात्मक आवरण को कटने, खरोंचने या फटने से बचाने के लिए केबल रोलर्स या गाइड ट्रे का उपयोग करें।\r\n\r\nसुव्यवस्थित ट्रे रूटिंग और व्यवस्था: केबलों को सीधा, समानांतर, और केबल ट्रे के अंदर सुव्यवस्थित रूप से रूट करें। गन्दा ओवरलैपिंग, मुड़ना, या आड़ी-तिरछी उलझन से बचें। गर्मी निर्माण को रोकने के लिए उचित दूरी सुनिश्चित करें।\r\n\r\nकेबलों का पृथक्करण: रूटिंग पथों के अंदर पावर केबलों और नियंत्रण/सिग्नल केबलों के बीच सख्त भौतिक दूरी बनाए रखें। विद्युत चुम्बकीय हस्तक्षेप (ईएमआई) और सिग्नल शोर को रोकने के लिए उन्हें अलग-अलग ट्रे या निर्दिष्ट डिब्बों में चलाएं।\r\n\r\nसुरक्षित बांधना और फिक्सिंग: केबलों को नियमित अंतराल पर उचित केबल टाई या क्लैंप का उपयोग करके ट्रे में सुरक्षित रूप से फिक्स करें। टाई को अधिक कसें नहीं, क्योंकि दबाने से आंतरिक कोर कुचल सकते हैं। सुनिश्चित करें कि ऊर्ध्वाधर केबल रनों को पर्याप्त सहारा दिया गया हो।\r\n\r\nक्षति एस्केलेशन: यदि हैंडलिंग या रूटिंग के दौरान कोई केबल गंभीर रूप से मुड़ जाती है, ऐंठ जाती है, कुचल जाती है, या उसमें दिखाई देने वाली इन्सुलेशन क्षति होती है, तो तुरंत कार्य रोकें और अपने पर्यवेक्षक को सूचित करें। क्षतिग्रस्त केबल अनुभागों को कभी भी छिपाएं या उन पर टेप न लगाएं।"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mod_mqw2x8n6q43zj",
+      "name": "6.Cable Crimping",
+      "parts": [
+        {
+          "id": "part_mqw2xcvyrs0fz",
+          "label": "Cable Crimping",
+          "en": {
+            "images": [
+              "6.Cable Crimping/Cable Crimping-English.png"
+            ],
+            "audio": "6.Cable Crimping/Cable Crimping-English.mp3",
+            "content": "Cable Crimping and Labeling\r\n1. Drawing Reference & Wiring Preparation\r\n\r\nREFER TO THE DRAWING FIRST: Always refer strictly to the latest schematic and wiring layout drawing before starting. Check the exact wire gauge, destination terminal block, and corresponding identification codes to prepare your materials accurately.\r\n\r\nPRE-ROUTE AND MEASURE: Route the cable cleanly along the designated tray pathway right up to its final terminal destination before cutting. Always leave a comfortable, relaxed slack loop near the end so the wire is never under tension or pulled tightly once fixed.\r\n\r\n2. Strict 4S Cleanliness & Waste Control\r\n\r\nKEEP WASTE OUT: Keeping a clean work zone is non-negotiable. Throwing insulation strips, cut copper bits, or plastic cable tie clippings on the floor, inside the control panel, or inside any junction box is strictly prohibited and highly unprofessional.\r\n\r\nMANDATORY WASTE BOX: You must keep a designated waste collection box or pouch directly beside you at your workstation. Collect every single piece of scrap insulation and wire debris immediately to maintain a perfect 4S condition.\r\n\r\n3. Wire Stripping & Core Inspection\r\n\r\nPERFECT STRIPPING LENGTH: Use a calibrated wire stripper adjusted to the exact length of the lug barrel.\r\n\r\nZERO DAMAGE TO COPPER: The insulation must be sliced cleanly. If you accidentally nick, shave, or cut even a single inner copper strand, cut the wire back completely and strip it again.\r\n\r\nNO SPLAYED STRANDS: Smoothly guide the copper core into the lug. There must be zero loose or splayed copper strands backing out or sticking out from the lug collar.\r\n\r\n4. Lug Selection & Tool Matching\r\n\r\nSELECT THE RIGHT LUG TYPE: Match your execution to the specific connection type specified in the engineering drawing:\r\n\r\nPin Lugs / Ferrules: For push-in type terminal blocks and PLC I/O modules.\r\n\r\nRing Lugs: For heavy-duty power terminals, stud connections, and earth busbars.\r\n\r\nFork (Spade) Lugs: For standard screw-clamp barrier terminal strips.\r\n\r\nEXACT JAW DIE MATCHING: Always use the correct crimping tool and the precise jaw die size meant for that specific wire cross-section and lug barrel size. Never use an oversized tool or make a loose, uncalibrated crimp.\r\n\r\n5. Full-Cycle Crimping & Mechanical Test\r\n\r\nCOMPLETE THE CRIMP CYCLE: Squeeze the ratchet or hydraulic crimping tool through its entire mechanical cycle until the jaws fully compress and automatically release.\r\n\r\nMANUAL PULL-TEST: Immediately perform a firm manual pull-test on the lug to physically confirm that the mechanical bond is 100% rock-solid before proceeding.\r\n\r\n6. Correct Labeling Direction & Visibility\r\n\r\nLABEL BEFORE TERMINATING: Slide the printed identification sleeve labels (ferrules or tags) onto the wire before inserting it into the terminal.\r\n\r\nREADING DIRECTION MAPPING: Install the label so the printed text faces directly outward and reads cleanly from left-to-right or bottom-to-top. A worker must be able to read the terminal code effortlessly at a single glance without having to twist, pull, or strain the wire.\r\n\r\n7. Systematic Routing & Terminal Termination\r\n\r\nNEAT ROUTING AT THE TERMINAL: Do not cross wires haphazardly right at the terminal block. Form the dressed wire neatly into the terminal channel, align it squarely, and insert the lug cleanly into the terminal jaw. Tighten it firmly to ensure a reliable electrical connection while keeping the overall layout pristine.\r\n\r\n8. Error Escalation\r\n\r\nSTOP AND REPORT: If a crimp feels loose, if a wire sleeve splits, if a label code is smudged and unreadable, or if the terminal block destination looks different from the drawing, stop work immediately and inform your supervisor. Never cover up a bad termination or guess a label code."
+          },
+          "hi": {
+            "images": [
+              "6.Cable Crimping/Cable Crimping-Hindi.png"
+            ],
+            "audio": "6.Cable Crimping/Cable Crimping-Hindi.mp3",
+            "content": "केबल क्रिम्पिंग और लेबलिंग\r\n\r\n1. ड्राइंग संदर्भ और वायरिंग तैयारी\r\n\r\nपहले ड्राइंग देखें: शुरू करने से पहले हमेशा नवीनतम योजनाबद्ध और वायरिंग लेआउट ड्राइंग का सख्ती से संदर्भ लें। अपनी सामग्री को सटीक रूप से तैयार करने के लिए सटीक वायर गेज, गंतव्य टर्मिनल ब्लॉक, और संबंधित पहचान कोड की जाँच करें।\r\n\r\nपूर्व-रूटिंग और माप: काटने से पहले केबल को निर्दिष्ट ट्रे पथ के साथ उसके अंतिम टर्मिनल गंतव्य तक साफ-सुथरे ढंग से रूट करें। अंत के पास हमेशा एक आरामदायक, ढीला स्लैक लूप छोड़ें ताकि एक बार फिक्स करने पर तार कभी भी तनाव या खिंचाव में न रहे।\r\n\r\n2. सख्त 4S स्वच्छता और अपशिष्ट नियंत्रण\r\n\r\nअपशिष्ट को बाहर रखें: स्वच्छ कार्य क्षेत्र बनाए रखना अनिवार्य है। इन्सुलेशन स्ट्रिप्स, कटे हुए तांबे के टुकड़े, या प्लास्टिक केबल टाई कतरनों को फर्श पर, कंट्रोल पैनल के अंदर, या किसी भी जंक्शन बॉक्स के अंदर फेंकना सख्त वर्जित है और अत्यंत अव्यवसायिक है।\r\n\r\nअनिवार्य अपशिष्ट बॉक्स: आपको अपने कार्यस्थल पर अपने ठीक बगल में एक निर्दिष्ट अपशिष्ट संग्रह बॉक्स या पाउच रखना चाहिए। उत्तम 4S स्थिति बनाए रखने के लिए इन्सुलेशन और तार के मलबे के हर एक टुकड़े को तुरंत एकत्र करें।\r\n\r\n3. तार स्ट्रिपिंग और कोर निरीक्षण\r\n\r\nउत्तम स्ट्रिपिंग लंबाई: लग बैरल की सटीक लंबाई के अनुसार समायोजित कैलिब्रेटेड वायर स्ट्रिपर का उपयोग करें।\r\n\r\nतांबे को शून्य क्षति: इन्सुलेशन को साफ-सुथरे ढंग से काटा जाना चाहिए। यदि आप गलती से एक भी आंतरिक तांबे के स्ट्रैंड को काटते, छीलते या घायल करते हैं, तो तार को पूरी तरह से पीछे काटें और उसे फिर से स्ट्रिप करें।\r\n\r\nकोई बिखरे हुए स्ट्रैंड नहीं: तांबे के कोर को सुचारू रूप से लग के अंदर गाइड करें। लग कॉलर से बाहर निकलने वाले या चिपके हुए कोई ढीले या बिखरे हुए तांबे के स्ट्रैंड नहीं होने चाहिए।\r\n\r\n4. लग चयन और उपकरण मिलान\r\n\r\nसही लग प्रकार चुनें: अपने क्रियान्वयन को इंजीनियरिंग ड्राइंग में निर्दिष्ट विशिष्ट कनेक्शन प्रकार से मिलाएँ:\r\n\r\nपिन लग / फेर्यूल्स: पुश-इन प्रकार के टर्मिनल ब्लॉक और पीएलसी आई/ओ मॉड्यूल के लिए।\r\n\r\nरिंग लग: भारी-शुल्क वाले पावर टर्मिनलों, स्टड कनेक्शन और अर्थ बसबारों के लिए।\r\n\r\nफोर्क (स्पेड) लग: मानक स्क्रू-क्लैंप बैरियर टर्मिनल स्ट्रिप्स के लिए।\r\n\r\nसटीक जॉ डाई मिलान: हमेशा सही क्रिम्पिंग उपकरण और उस विशिष्ट तार क्रॉस-सेक्शन और लग बैरल आकार के लिए बनाई गई सटीक जॉ डाई का उपयोग करें। कभी भी अत्यधिक बड़े उपकरण का उपयोग न करें या ढीला, अंशांकित क्रिम्प न करें।\r\n\r\n5. पूर्ण-चक्र क्रिम्पिंग और यांत्रिक परीक्षण\r\n\r\nक्रिम्प चक्र को पूरा करें: शाफ़्ट या हाइड्रोलिक क्रिम्पिंग उपकरण को उसके पूरे यांत्रिक चक्र के माध्यम से दबाएँ जब तक कि जॉ पूरी तरह से संपीड़ित न हो जाएँ और स्वचालित रूप से रिलीज़ न हो जाएँ।\r\n\r\nमैन्युअल पुल-टेस्ट: आगे बढ़ने से पहले यांत्रिक बंधन 100% ठोस है, यह भौतिक रूप से पुष्टि करने के लिए तुरंत लग पर एक मजबूत मैन्युअल पुल-टेस्ट करें।\r\n\r\n6. सही लेबलिंग दिशा और दृश्यता\r\n\r\nटर्मिनेट करने से पहले लेबल लगाएं: तार को टर्मिनल में डालने से पहले उस पर मुद्रित पहचान स्लीव लेबल (फेर्यूल्स या टैग) चढ़ाएँ।\r\n\r\nपढ़ने की दिशा मानचित्रण: लेबल इस प्रकार स्थापित करें कि मुद्रित पाठ सीधे बाहर की ओर हो और बाएँ-से-दाएँ या नीचे-से-ऊपर स्पष्ट रूप से पढ़ा जा सके। एक कर्मचारी को तार को मोड़े, खींचे या दबाव डाले बिना एक नज़र में टर्मिनल कोड को आसानी से पढ़ने में सक्षम होना चाहिए।\r\n\r\n7. व्यवस्थित रूटिंग और टर्मिनल टर्मिनेशन\r\n\r\nटर्मिनल पर सुव्यवस्थित रूटिंग: टर्मिनल ब्लॉक पर तारों को अव्यवस्थित रूप से पार न करें। तैयार तार को टर्मिनल चैनल में साफ-सुथरे ढंग से मोड़ें, उसे सीधा संरेखित करें, और लग को टर्मिनल जॉ में साफ-सुथरे ढंग से डालें। समग्र लेआउट को शानदार बनाए रखते हुए एक विश्वसनीय विद्युत कनेक्शन सुनिश्चित करने के लिए इसे मजबूती से कसें।\r\n\r\n8. त्रुटि एस्केलेशन\r\n\r\nरोकें और रिपोर्ट करें: यदि क्रिम्प ढीला लगता है, यदि वायर स्लीव फट जाती है, यदि लेबल कोड धुंधला और अपठनीय है, या यदि टर्मिनल ब्लॉक गंतव्य ड्राइंग से अलग दिखता है, तो तुरंत कार्य रोकें और अपने पर्यवेक्षक को सूचित करें। कभी भी खराब टर्मिनेशन को छिपाएं नहीं या लेबल कोड का अनुमान न लगाएं।"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mod_mqw2yhx5o2doo",
+      "name": "7.Tightness",
+      "parts": [
+        {
+          "id": "part_mqw2yo1hrt6vg",
+          "label": "Tightness",
+          "en": {
+            "images": [
+              "7.Tightness/Tightness & Paint Marking-English.png"
+            ],
+            "audio": "7.Tightness/Tightness & Paint Marking-English.mp3",
+            "content": "Torque, Tightness & Paint Marking\r\n1. Equipment & Panel Structural Mounting\r\n\r\nPROPER TOOL SELECTION: Always select the correct, tools specified for structural fastening—whether executing floor grouting, structural pillar mounting, or fixing heavy equipment and panels. Hand-tightening by guessing is strictly prohibited.\r\n\r\nMANDATORY PAINT MARKING: Immediately after a mounting bolt or nut successfully achieves its specified torque value, apply a highly visible, continuous paint line across the fastener and the mating surface as per standard engineering requirements.\r\n\r\nCOMPULSORY TRAINING: If you are not fully aware of the torque specifications or the correct paint-marking application method for panel structural mountings, you must proactively seek training from your supervisor before executing the task.\r\n\r\n2. Screw-Type Wire Terminations\r\n\r\nFULL DEPTH SCREW TIGHTNESS: For screw-type terminal blocks and component connections, use the correctly sized insulated screwdriver or torque screwdriver to ensure the screw is fully tightened to its engineered specification.\r\n\r\nSCREW CAP PAINT MARKING: Once fully tightened, apply a precise, standard paint marking directly onto the screw head or interface. If you require clarification on the correct marking protocol, stop and request on-the-job training from your supervisor.\r\n\r\n3. Push-In Type Wire Terminations\r\n\r\nMANDATORY PHYSICAL PULL-TEST: For toolless, push-in type wire terminations, smoothly and firmly insert the ferrule or wire into the terminal block jaw until it locks. Immediately perform a physical manual pull-test to ensure the internal spring clamp has gripped the wire perfectly.\r\n\r\nHORIZONTAL WIRE MARKING: Once the pull-test confirms a secure connection, apply a horizontal paint marking onto the wire after ferrule interface next to the terminal entry point. If you are unfamiliar with the horizontal wire-marking standard, consult your supervisor for immediate training.\r\n\r\nTHE MANDATE OF THE MARK: A paint mark is the definitive field proof that a connection is completely secure. If a bolt, screw, or push-in wire lacks its designated marking, it will be treated as completely loose and non-compliant during quality audits."
+          },
+          "hi": {
+            "images": [
+              "7.Tightness/Tightness & Paint Marking-Hindi.png"
+            ],
+            "audio": "7.Tightness/Tightness & Paint Marking-English.mp3",
+            "content": "टॉर्क, कसावट और पेंट मार्किंग\r\n\r\n1. उपकरण और पैनल संरचनात्मक माउंटिंग\r\n\r\nउचित उपकरण चयन: संरचनात्मक बंधन के लिए हमेशा सही, निर्दिष्ट उपकरणों का चयन करें—चाहे वह फर्श ग्राउटिंग हो, संरचनात्मक स्तंभ माउंटिंग हो, या भारी उपकरण और पैनलों को फिक्स करना हो। अंदाज़ से हाथ से कसना सख्त वर्जित है।\r\n\r\nअनिवार्य पेंट मार्किंग: माउंटिंग बोल्ट या नट के सफलतापूर्वक अपने निर्दिष्ट टॉर्क मान तक पहुँचने के तुरंत बाद, मानक इंजीनियरिंग आवश्यकताओं के अनुसार फास्टनर और मेटिंग सतह पर एक अत्यधिक दृश्यमान, निरंतर पेंट रेखा लगाएँ।\r\n\r\nअनिवार्य प्रशिक्षण: यदि आप पैनल संरचनात्मक माउंटिंग के लिए टॉर्क विनिर्देशों या सही पेंट-मार्किंग आवेदन विधि से पूरी तरह अवगत नहीं हैं, तो आपको कार्य निष्पादित करने से पहले अपने पर्यवेक्षक से सक्रिय रूप से प्रशिक्षण लेना चाहिए।\r\n\r\n2. स्क्रू-प्रकार वायर टर्मिनेशन\r\n\r\nपूर्ण गहराई स्क्रू कसावट: स्क्रू-प्रकार टर्मिनल ब्लॉक और घटक कनेक्शन के लिए, सही आकार के इंसुलेटेड स्क्रूड्राइवर या टॉर्क स्क्रूड्राइवर का उपयोग करें ताकि यह सुनिश्चित हो सके कि स्क्रू अपने इंजीनियर विनिर्देश के अनुसार पूरी तरह से कसा गया है।\r\n\r\nस्क्रू कैप पेंट मार्किंग: पूरी तरह से कसने के बाद, स्क्रू हेड या इंटरफेस पर सीधे एक सटीक, मानक पेंट मार्किंग लगाएँ। यदि आपको सही मार्किंग प्रोटोकॉल पर स्पष्टीकरण की आवश्यकता है, तो रुकें और अपने पर्यवेक्षक से ऑन-द-जॉब प्रशिक्षण का अनुरोध करें।\r\n\r\n3. पुश-इन प्रकार वायर टर्मिनेशन\r\n\r\nअनिवार्य भौतिक पुल-टेस्ट: बिना उपकरण के, पुश-इन प्रकार वायर टर्मिनेशन के लिए, फेर्यूल या तार को सुचारू रूप से और मजबूती से टर्मिनल ब्लॉक जॉ में तब तक डालें जब तक कि वह लॉक न हो जाए। तुरंत एक भौतिक मैन्युअल पुल-टेस्ट करें ताकि यह सुनिश्चित हो सके कि आंतरिक स्प्रिंग क्लैंप ने तार को पूरी तरह से पकड़ लिया है।\r\n\r\nक्षैतिज वायर मार्किंग: एक बार पुल-टेस्ट सुरक्षित कनेक्शन की पुष्टि कर दे, तो फेर्यूल इंटरफेस के बाद टर्मिनल प्रवेश बिंदु के बगल में तार पर एक क्षैतिज पेंट मार्किंग लगाएँ। यदि आप क्षैतिज वायर-मार्किंग मानक से अपरिचित हैं, तो तत्काल प्रशिक्षण के लिए अपने पर्यवेक्षक से परामर्श करें।\r\n\r\nमार्क का अनिवार्य आदेश: एक पेंट मार्क इस बात का निश्चित फील्ड प्रमाण है कि एक कनेक्शन पूरी तरह से सुरक्षित है। यदि किसी बोल्ट, स्क्रू, या पुश-इन तार में उसकी निर्दिष्ट मार्किंग नहीं है, तो गुणवत्ता ऑडिट के दौरान उसे पूरी तरह से ढीला और गैर-अनुपालन माना जाएगा।"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mod_mqw30ec63ctk0",
+      "name": "8.Safe Work",
+      "parts": [
+        {
+          "id": "part_mqw30k9hg5h7z",
+          "label": "Safe Work",
+          "en": {
+            "images": [
+              "8.Safe Work/Safe Work Practices-English.png"
+            ],
+            "audio": "8.Safe Work/Safe Work Practices-English.mp3",
+            "content": "Safe Work Practices\r\n1. Daily Tool Box Talk & Work Alignment\r\n\r\nDAILY MORNING MEETING: Before beginning any field tasks, every worker must attend the mandatory morning briefing. Use this time to clearly understand the specific scope of work assigned for the day and review the exact safety hazards associated with that work.\r\n\r\nHAZARD AWARENESS: Listen closely to the specialized safety measures or precautions highlighted for your specific work area during the meeting before touching any tools or panels.\r\n\r\n2. Adherence to Client & Site Safety Guidelines\r\n\r\nSTRICT COMPANY COMPLIANCE: Always follow the specific site safety guidelines and operational protocols established by the company or client facility where the work is being executed.\r\n\r\nZERO COMPROMISE: Local site rules, permit-to-work systems, and restricted zone boundaries must be respected without exception. Never bypass any client-mandated safety procedure to speed up an installation."
+          },
+          "hi": {
+            "images": [
+              "8.Safe Work/Safe Work Practices-Hindi.png"
+            ],
+            "audio": "8.Safe Work/Safe Work Practices-Hindi.mp3",
+            "content": "सुरक्षित कार्य प्रथाएँ\r\n\r\n1. दैनिक टूल बॉक्स टॉक और कार्य संरेखण\r\n\r\nदैनिक सुबह की बैठक: कोई भी फील्ड कार्य शुरू करने से पहले, प्रत्येक कर्मचारी को अनिवार्य सुबह की ब्रीफिंग में भाग लेना चाहिए। इस समय का उपयोग दिन के लिए सौंपे गए कार्य के विशिष्ट दायरे को स्पष्ट रूप से समझने और उस कार्य से जुड़े सटीक सुरक्षा जोखिमों की समीक्षा करने के लिए करें।\r\n\r\nजोखिम जागरूकता: किसी भी उपकरण या पैनल को छूने से पहले, बैठक के दौरान आपके विशिष्ट कार्य क्षेत्र के लिए बताए गए विशेष सुरक्षा उपायों या सावधानियों को ध्यान से सुनें।\r\n\r\n2. ग्राहक और साइट सुरक्षा दिशानिर्देशों का पालन\r\n\r\nसख्त कंपनी अनुपालन: हमेशा कंपनी या ग्राहक सुविधा द्वारा स्थापित विशिष्ट साइट सुरक्षा दिशानिर्देशों और परिचालन प्रोटोकॉल का पालन करें, जहाँ कार्य किया जा रहा है।\r\n\r\nशून्य समझौता: स्थानीय साइट नियम, कार्य-परमिट प्रणाली, और प्रतिबंधित क्षेत्र की सीमाओं का बिना किसी अपवाद के सम्मान किया जाना चाहिए। किसी स्थापना को तेज करने के लिए कभी भी ग्राहक द्वारा अनिवार्य किसी सुरक्षा प्रक्रिया को दरकिनार न करें।"
+          }
+        }
+      ]
+    }
+  ]
+}
